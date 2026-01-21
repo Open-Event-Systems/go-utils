@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/open-event-systems/go-utils/gracefulshutdown"
+	"github.com/Open-Event-Systems/go-utils/gracefulshutdown"
 )
 
 func main() {

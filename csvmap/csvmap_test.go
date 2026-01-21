@@ -7,7 +7,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/open-event-systems/go-utils/csvmap"
+	"github.com/Open-Event-Systems/go-utils/csvmap"
 )
 
 func TestCSV(t *testing.T) {
